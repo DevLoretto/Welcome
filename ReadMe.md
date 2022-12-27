@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi ✌ How are you?:
 🐱‍👓 I'm a software developer with passion for Science and Games<br>🌱 I’m currently learning English, Python and Rust<br>
 
 

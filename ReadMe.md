@@ -3,7 +3,7 @@
 
 
 ## 🌐 Contact:
-[![Gmail](https://img.shields.io/badge/Gmail-%23E34F26.svg?logo=gmail&logoColor=white)](otaviosouzaprofessional@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23E34F26.svg?logo=gmail&logoColor=white)](mailto:otaviosouzaprofessional@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/otavio-souza-henriques) 
  
 
@@ -16,7 +16,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img align="right" width="18%" src=https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif>
+<img align="right" width="18%" src=https://media.giphy.com/media/vsC7gewdX8tfq/giphy.gif>
 
 
 ---

@@ -1,5 +1,5 @@
 # Hi ✌ How are you?:
-🐱‍👓 I'm a software developer with passion for Science and Games<br>🌱 I’m currently learning English, Python and Rust<br>
+🐱‍👓 I'm a software developer with passion for Science and Games<br>🌱 I’m currently learning English, Python and Rust <br> 
 
 
 ## 🌐 Socials:
@@ -14,12 +14,11 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="right" width="18%" src=https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevLoretto&icon=5&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devloretto) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
